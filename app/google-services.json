@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545841744250",
+    "firebase_url": "https://chetam-3aefc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chetam-3aefc",
+    "storage_bucket": "chetam-3aefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545841744250:android:6697b4ae16fa565326eec3",
+        "android_client_info": {
+          "package_name": "com.example.chetam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545841744250-e5uoqua55a5ngsfoohc3e30vpcsca7g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEjwoPi85kFCSxNiPgEnMM0TAdXdLpjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545841744250-e5uoqua55a5ngsfoohc3e30vpcsca7g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CheTam</string>
+    <string name="send">send</string>
+    <string name="edSend">message</string>
+    <string name="bSign">google account</string>
+</resources>
